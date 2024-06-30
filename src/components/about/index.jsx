@@ -5,7 +5,7 @@ import Link from "next/link";
 const AboutDetails = () => {
   return (
     <section className="py-20 w-full">
-      <div className="grid grid-cols-12 gap-4 xs:gap-6  md:gap-8 w-full">
+      <div className="grid grid-cols-12 gap-4 xs:gap-6 md:gap-8 w-full">
         <ItemLayout
           className={
             " col-span-full lg:col-span-8 row-span-2 flex-col items-start"
@@ -15,12 +15,12 @@ const AboutDetails = () => {
             Architect of Enchantment
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-            Hey there! I'm Meenal Saini, currently pursuing B.Tech in Engineering at NIT Jalandhar, driven by a passion for AI, machine learning, and sustainable technology solutions.
-            I'am having Expert position at kaggle. I've navigated data as a Logistics Intern at AgroVita Foods, optimizing import costs, and explored energy harvesting research at IIT BHU. As a Project Manager Intern at Writo Pvt Ltd, I executed tech projects with precision.
-            Known for innovating touchless technology, I've developed an AI mouse that redefines user interaction. I've also engineered a budget-friendly laser engraving machine and pioneered an LSTM-driven stock trend predictor.
-            Moreover, I hold a Green Belt in Lean Six Sigma, committed to elevating quality and efficiency. Currently, at IIT Ropar, I'm pioneering AI in real-time cancer detection.
-            With expertise in Python, TensorFlow, and Power BI, let's innovate together for a brighter future!
-            Empowering Tomorrow's Technology Today
+            Hey there! I&apos;m Meenal Saini, currently pursuing B.Tech in Engineering at NIT Jalandhar, driven by a passion for AI, machine learning, and sustainable technology solutions.
+            I&apos;ve navigated data as a Logistics Intern at AgroVita Foods, optimizing import costs, and explored energy harvesting research at IIT BHU. As a Project Manager Intern at Writo Pvt Ltd, I executed tech projects with precision.
+            Known for innovating touchless technology, I&apos;ve developed an AI mouse that redefines user interaction. I&apos;ve also engineered a budget-friendly laser engraving machine and pioneered an LSTM-driven stock trend predictor.
+            Moreover, I hold a Green Belt in Lean Six Sigma, committed to elevating quality and efficiency. Currently, at IIT Ropar, I&apos;m pioneering AI in real-time cancer detection.
+            With expertise in Python, TensorFlow, and Power BI, let&apos;s innovate together for a brighter future!
+            Empowering Tomorrow&apos;s Technology Today
           </p>
         </ItemLayout>
 
